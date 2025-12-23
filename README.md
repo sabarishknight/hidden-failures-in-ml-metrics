@@ -76,6 +76,3 @@ This project highlights the importance of:
 This insight is critical for building reliable, fair, and trustworthy machine learning systems.
 
 ---
-
-## Repository Structure
-
